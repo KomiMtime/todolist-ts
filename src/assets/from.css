@@ -1,0 +1,20 @@
+.title {
+  font-weight: 700;
+  font-size: 60px;
+  text-align: center;
+  color: #000;
+}
+.contentBox {
+  width: 600px;
+  margin: 0 auto;
+}
+.inputBox {
+  display: flex;
+  margin: 0 auto;
+}
+.input {
+  margin-right: 10px !important;
+}
+.divider {
+  border-top: 1px solid rgba(0, 0, 0, 1) !important;
+}
